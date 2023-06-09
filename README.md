@@ -1,4 +1,4 @@
-# flutter_quiz_2040
+# Quiz app in Flutter 2040
 
 A new Flutter project.
 
